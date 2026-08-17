@@ -4,9 +4,9 @@ Machine learning pipeline predicting whether a Formula 1 driver finishes in the 
 
 ## Overview
 
-- **Data source:** [Jolpica API](https://api.jolpi.ca/ergast/f1/), the community successor to Ergast — race  7000 results across 19 features
+- **Data source:** [Jolpica API](https://api.jolpi.ca/ergast/f1/), the community successor to Ergast - race  7000 results across 19 features
 - **Task:** Binary classification - Points finish (Top 10) vs No Points
-- **Best model:** Decision Tree (Entropy, Max Depth 6) — 88.76% accuracy
+- **Best model:** Decision Tree (Entropy, Max Depth 6) - 88.76% accuracy
 - **21 model configurations** across five algorithm families, plus PCA for unsupervised validation
 
 ## Methods
