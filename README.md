@@ -38,6 +38,6 @@ data/ # Raw and cleaned datasets
 
 ## Deliverables
 
-A full write-up — methodology, results, discussion and an interactive Power BI dashboard — is available in the accompanying MSc dissertation report.
+A full write-up - methodology, results, discussion and an interactive Power BI dashboard - is available in the accompanying MSc dissertation report.
 
-**Author:** Akash Sakharayapattana Prakash — MSc Data Analytics, Dublin Business School
+**Author:** Akash Sakharayapattana Prakash - MSc Data Analytics, Dublin Business School
