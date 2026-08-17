@@ -30,10 +30,10 @@ All models evaluated on the same 80/20 train/test split (random_state=42) using 
 - PCA independently confirms the supervised feature importance rankings
 
 ## Repository Structure
-├── Supervised Learning/ # Decision Tree, Ensemble, Naive Bayes, Regression, SVM notebooks
-├── Unsupervised Learning/ # PCA notebook
-├── data/ # Raw and cleaned datasets
-└── README.md
+ Supervised Learning/ # Decision Tree, Ensemble, Naive Bayes, Regression, SVM notebooks
+Unsupervised Learning/ # PCA notebook
+data/ # Raw and cleaned datasets
+ README.md
 
 
 ## Deliverables
